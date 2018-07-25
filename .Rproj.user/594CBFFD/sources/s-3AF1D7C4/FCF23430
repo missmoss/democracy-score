@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532416041676.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FCF23430",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1532416041676,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "589DB308",
+        "caption" : "join_wave3",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=join_wave3&cache_key=589DB308",
+        "displayedObservations" : "746",
+        "environment" : "",
+        "object" : "join_wave3",
+        "preview" : "0",
+        "totalObservations" : "746",
+        "variables" : "39"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

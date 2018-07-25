@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532359426546.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "70ADB0D5",
+    "lastKnownWriteTime" : 1532504831,
+    "last_content_update" : 1532506643476,
+    "path" : "~/Documents/R/democracy-score/eda.R",
+    "project_path" : "eda.R",
+    "properties" : {
+        "cursorPosition" : "43,0",
+        "scrollLine" : "31",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
